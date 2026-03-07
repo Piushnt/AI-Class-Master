@@ -12,6 +12,13 @@ dotenv.config();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// --- Environment Validation ---
+const requiredEnv = ['SUPABASE_URL', 'SUPABASE_SERVICE_ROLE_KEY', 'GEMINI_API_KEY', 'JWT_SECRET'];
+const missingEnv = requiredEnv.filter(env => !process.env[env]);
+if (missingEnv.length > 0) {
+  console.error(`CRITICAL: Missing environment variables: ${missingEnv.join(', ')}`);
+}
+
 // --- Supabase Configuration ---
 const supabaseUrl = process.env.SUPABASE_URL || '';
 const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || ''; // Use Service Role Key for server-side
@@ -69,13 +76,14 @@ app.post("/api/auth/register", async (req, res) => {
     const token = jwt.sign({ id: userId, email, name }, JWT_SECRET);
     res.json({ token, user: { id: userId, email, name } });
   } catch (error: any) {
-    console.error(error);
+    console.error("Registration Error Detail:", error);
     res.status(400).json({ error: error.message || "Error during registration" });
   }
 });
 
 app.post("/api/auth/login", async (req, res) => {
   const { email, password } = req.body;
+  if (!email || !password) return res.status(400).json({ error: "Missing fields" });
   try {
     const { data: user, error } = await supabase
       .from('users')
@@ -84,12 +92,14 @@ app.post("/api/auth/login", async (req, res) => {
       .single();
 
     if (error || !user || !(await bcrypt.compare(password, user.password))) {
+      if (error && error.code !== 'PGRST116') console.error("Login DB Error:", error);
       return res.status(401).json({ error: "Invalid credentials" });
     }
 
     const token = jwt.sign({ id: user.id, email: user.email, name: user.name }, JWT_SECRET);
     res.json({ token, user: { id: user.id, email: user.email, name: user.name } });
   } catch (error) {
+    console.error("Login Server Error:", error);
     res.status(500).json({ error: "Server error during login" });
   }
 });
