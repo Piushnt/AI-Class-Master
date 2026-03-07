@@ -13,3 +13,7 @@ This contains everything you need to run your app locally.
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## ESSAYER L'APP WEB VIA :
+
+**Link :**  https://ai-class-master.vercel.app
