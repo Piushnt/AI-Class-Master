@@ -498,12 +498,29 @@ export default function App() {
     setTimeLeft(prev => Math.max(0, prev + seconds));
   };
 
-  const startClass = () => {
+  const startClass = async () => {
     if (lessonPoints.length === 0) return;
-    saveSession();
+    await saveSession();
     setView('active');
     setCurrentPointIndex(0);
     setIsActive(true);
+
+    // Create notification for class start
+    try {
+      await fetch('/api/notifications', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({
+          type: 'system',
+          title: 'Session Démarrée',
+          message: `La session "${lessonPoints[0]?.title}" a commencé.`
+        })
+      });
+      fetchNotifications();
+    } catch (e) { console.error(e); }
   };
 
   const formatTime = (seconds: number) => {
@@ -571,6 +588,23 @@ export default function App() {
     const response = await getGeminiResponse(prompt, courseContent);
     setAiResponse(response);
     setIsAiLoading(false);
+
+    // Create notification for student question
+    try {
+      await fetch('/api/notifications', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({
+          type: 'message',
+          title: 'Question IA Générée',
+          message: `Une question a été posée à ${student.name} pour le point "${currentPoint.title}".`
+        })
+      });
+      fetchNotifications();
+    } catch (e) { console.error(e); }
   };
 
   // --- UI Components ---

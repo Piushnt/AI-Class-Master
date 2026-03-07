@@ -124,6 +124,23 @@ app.get("/api/sessions", authenticateToken, async (req: any, res) => {
   }
 });
 
+// --- Notification Helper ---
+const createNotification = async (userId: number, type: string, title: string, message: string) => {
+  try {
+    await supabase.from('notifications').insert([{ user_id: userId, type, title, message }]);
+  } catch (error) {
+    console.error("Error creating notification:", error);
+  }
+};
+
+app.post("/api/notifications", authenticateToken, async (req: any, res) => {
+  const { type, title, message } = req.body;
+  if (!type || !title || !message) return res.status(400).json({ error: "Missing fields" });
+  await createNotification(req.user.id, type, title, message);
+  res.json({ success: true });
+});
+
+// --- Session Routes (Enhanced with Notifications) ---
 app.post("/api/sessions", authenticateToken, async (req: any, res) => {
   const { title, goal, content, lesson_points, students } = req.body;
   try {
@@ -141,6 +158,15 @@ app.post("/api/sessions", authenticateToken, async (req: any, res) => {
       .single();
 
     if (error) throw error;
+    
+    // Create real notification for new session
+    await createNotification(
+      req.user.id,
+      'system',
+      'Nouvelle Session',
+      `La session "${title}" a été créée avec succès.`
+    );
+
     res.json({ id: data.id });
   } catch (error) {
     res.status(500).json({ error: "Failed to save session" });
