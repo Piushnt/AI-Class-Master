@@ -109,12 +109,15 @@ const getGeminiResponse = async (prompt: string, context?: string) => {
       body: JSON.stringify({ prompt, context })
     });
 
-    if (!response.ok) throw new Error("API call failed");
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(errorData.error || `API call failed with status ${response.status}`);
+    }
     const data = await response.json();
     return data.text || "Aucune réponse générée.";
-  } catch (error) {
+  } catch (error: any) {
     console.error("Gemini Error:", error);
-    return "Erreur lors de l'appel à l'IA. Veuillez vérifier votre connexion ou votre clé API.";
+    return `Erreur lors de l'appel à l'IA : ${error.message}. Vérifiez les variables d'environnement sur Vercel.`;
   }
 };
 
@@ -532,13 +535,11 @@ export default function App() {
       availableStudents = students;
     }
 
-    // Animation effect
+    // Simplified Animation effect
     let count = 0;
-    const maxCount = 40;
+    const maxCount = 15; // Shorter animation
 
     const runAnimation = () => {
-      const delay = 50 + (count * 10);
-
       setTimeout(() => {
         const randomIndex = Math.floor(Math.random() * availableStudents.length);
         setSelectedStudent(availableStudents[randomIndex]);
@@ -551,13 +552,13 @@ export default function App() {
           setSelectedStudent(finalStudent);
           setPickedStudents(prev => [...prev, finalStudent.id]);
 
-          // Wait a bit before showing the question
+          // Faster transition to question
           setTimeout(() => {
             setIsPicking(false);
             generateFlashQuestion(finalStudent);
-          }, 3000); // Increased delay for more "concrete" feel
+          }, 1000);
         }
-      }, delay);
+      }, 80); // Constant faster delay
     };
 
     runAnimation();
@@ -1058,7 +1059,7 @@ export default function App() {
                           </div>
                           <button
                             onClick={(e) => { e.stopPropagation(); setSessionToDelete(session.id); }}
-                            className="p-2 text-zinc-500 hover:text-red-500 opacity-0 group-hover:opacity-100 transition-opacity"
+                            className="p-2 text-zinc-500 hover:text-red-500 transition-colors bg-zinc-500/5 rounded-lg"
                           >
                             <Trash2 className="w-4 h-4" />
                           </button>
@@ -1257,7 +1258,7 @@ export default function App() {
                                 </div>
                               </div>
                             </div>
-                            <div className="flex flex-col gap-1 sm:opacity-0 sm:group-hover:opacity-100 transition-opacity">
+                            <div className="flex flex-col gap-1 transition-opacity">
                               <button onClick={() => moveLessonPoint(point.id, 'up')} className="p-1 hover:text-emerald-500"><ArrowUp className="w-4 h-4" /></button>
                               <button onClick={() => moveLessonPoint(point.id, 'down')} className="p-1 hover:text-emerald-500"><ArrowDown className="w-4 h-4" /></button>
                               <button onClick={() => removeLessonPoint(point.id)} className="p-1 text-red-500/50 hover:text-red-500"><Trash2 className="w-4 h-4" /></button>
