@@ -1,0 +1,61 @@
+# Guide d'Implémentation - AI Class Master
+
+Ce guide explique en détail comment implémenter et configurer le projet AI Class Master.
+
+## 1. Présentation du Projet
+AI Class Master est une plateforme d'assistance pédagogique qui utilise l'IA (Gemini) pour aider les enseignants à gérer leurs sessions de cours, planifier des segments de leçon, et interagir avec les étudiants via des questions générées automatiquement.
+
+## 2. Architecture Technique
+- **Frontend** : React 18+, TypeScript, Tailwind CSS 4, Framer Motion (pour les animations).
+- **Backend** : Express (Node.js), SQLite (via better-sqlite3) pour le stockage des sessions et des utilisateurs.
+- **IA** : SDK @google/genai pour l'intégration du modèle Gemini 3 Flash.
+- **Authentification** : JWT (JSON Web Tokens) et hachage de mots de passe avec bcryptjs.
+
+## 3. Configuration de l'Environnement
+Vous devez définir les variables d'environnement suivantes :
+- `GEMINI_API_KEY` : Votre clé API Google AI Studio.
+- `JWT_SECRET` : Une chaîne secrète pour signer les tokens d'authentification.
+
+## 4. Installation
+1. Installez les dépendances :
+   ```bash
+   npm install
+   ```
+2. Lancez le serveur de développement :
+   ```bash
+   npm run dev
+   ```
+
+## 5. Fonctionnalités Clés et Implémentation
+
+### A. Gestion des Sessions (Backend)
+Le serveur Express gère les routes API suivantes :
+- `POST /api/auth/register` : Inscription d'un nouvel utilisateur.
+- `POST /api/auth/login` : Connexion et génération du token JWT.
+- `GET /api/sessions` : Récupération des sessions sauvegardées de l'utilisateur.
+- `POST /api/sessions` : Sauvegarde d'une nouvelle configuration de session (objectifs, étudiants, points de leçon).
+
+### B. Planificateur de Leçon (Frontend)
+L'enseignant peut définir des segments de cours avec une durée spécifique. Un minuteur interactif gère le temps restant pour chaque segment.
+
+### C. Sélecteur d'Étudiants (Cold Calling)
+L'animation de sélection a été optimisée pour être stable :
+- Un conteneur fixe (Modal) s'affiche.
+- Seuls les noms des étudiants défilent rapidement à l'intérieur.
+- L'IA génère ensuite une question personnalisée basée sur le contexte du cours téléchargé.
+
+### D. Intégration IA (Gemini)
+Le service utilise `gemini-3-flash-preview` pour :
+1. Résumer des segments de leçon.
+2. Générer des questions de compréhension pour les étudiants sélectionnés.
+
+## 6. Structure des Fichiers
+- `server.ts` : Point d'entrée du backend, configuration Express et SQLite.
+- `src/App.tsx` : Composant principal React gérant l'état global et l'interface utilisateur.
+- `src/index.css` : Configuration Tailwind CSS et styles globaux.
+
+## 7. Déploiement
+Le projet est configuré pour être déployé sur des plateformes supportant Node.js. Assurez-vous que le port 3000 est ouvert et que les variables d'environnement sont correctement injectées.
+
+---
+Développé par : HONONTA Towimè Ulrich Pius
