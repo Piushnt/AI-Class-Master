@@ -158,7 +158,7 @@ app.post("/api/sessions", authenticateToken, async (req: any, res) => {
       .single();
 
     if (error) throw error;
-    
+
     // Create real notification for new session
     await createNotification(
       req.user.id,
@@ -245,9 +245,13 @@ app.post("/api/ai/generate", authenticateToken, async (req, res) => {
     const result = await model.generateContent(fullPrompt);
     const response = await result.response;
     res.json({ text: response.text() });
-  } catch (error) {
+  } catch (error: any) {
     console.error("Gemini Error:", error);
-    res.status(500).json({ error: "Error calling Gemini API" });
+    res.status(500).json({
+      error: "Error calling Gemini API",
+      details: error.message || "Unknown error",
+      region: process.env.VERCEL_REGION || "unknown"
+    });
   }
 });
 
