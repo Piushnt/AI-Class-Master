@@ -1,192 +1,204 @@
-Imagine un homme qui construit son propre empire en Afrique de l'Ouest…
+Imagine être en 1896.
 
-Puis qui passe des années à combattre l'une des plus grandes puissances coloniales de son époque.
+Les grandes puissances européennes se partagent progressivement l'Afrique.
 
-Il perd des villes.
+Des territoires tombent.
 
-Il perd des territoires.
+Des royaumes sont conquis.
 
-Il doit abandonner sa capitale.
+Des frontières sont redessinées.
 
-Mais chaque fois qu'il est repoussé…
+Et au milieu de cette course…
 
-il recommence ailleurs.
+une puissance européenne pense pouvoir imposer son contrôle à l'Éthiopie.
 
-Cet homme s'appelait Samory Touré.
+Mais elle va faire une erreur.
 
-Et voici l'histoire de l'un des épisodes les plus impressionnants de la conquête coloniale française en Afrique de l'Ouest.
+Elle va sous-estimer son adversaire.
+
+Et le 1er mars 1896…
+
+son armée va affronter des dizaines de milliers de soldats éthiopiens à Adwa.
+
+Ce jour-là, l'histoire de l'Afrique va prendre une direction différente.
 
 ---
 
-Samory Touré naît au XIXᵉ siècle dans la région de Kankan, dans l'actuelle Guinée.
+À cette époque, l'Italie cherche à construire son propre empire colonial.
 
-À l'origine, rien ne le destine à devenir l'un des hommes les plus puissants de son époque.
+Elle possède déjà des territoires dans la région de la mer Rouge et souhaite étendre son influence vers l'intérieur.
 
-Mais adolescent, un événement va changer sa vie.
+L'Éthiopie représente alors un objectif majeur.
 
-Sa mère est capturée par un groupe rival.
+Mais l'Éthiopie n'est pas un territoire sans organisation politique.
 
-Pour obtenir sa libération, Samory entre à leur service.
+Elle possède un empereur :
 
-C'est là qu'il apprend le métier des armes.
+Menelik II.
 
-Quelques années plus tard, il quitte ce groupe.
+Et Menelik comprend parfaitement le danger qui approche.
 
-Il rassemble des hommes autour de lui.
+Il ne se contente pas de préparer une armée.
 
-Puis son pouvoir commence à grandir.
+Il cherche aussi à obtenir des armes modernes.
 
-Rapidement.
+Il achète notamment des armes et des munitions auprès de puissances européennes.
 
-Très rapidement.
+Pendant ce temps, l'Italie avance.
 
-Au cours des années 1870 et 1880, Samory construit progressivement ce qui deviendra l'Empire wassoulou.
+Puis les tensions deviennent une guerre ouverte.
 
-Son territoire s'étend sur plusieurs régions correspondant aujourd'hui notamment à la Guinée, au Mali, à la Côte d'Ivoire et aux zones voisines.
+---
 
-Il possède une armée organisée et utilise des armes à feu.
+Mais il existe un problème que les Italiens vont comprendre trop tard.
+
+Ils ont sous-estimé la capacité de mobilisation de Menelik.
+
+L'empereur parvient à rassembler une immense force composée de soldats provenant de différentes régions de l'Éthiopie.
+
+Et il n'est pas seul.
+
+À ses côtés se trouve notamment l'impératrice Taytu Betul, une figure politique et militaire importante dans la mobilisation éthiopienne.
+
+L'armée éthiopienne se met en mouvement.
+
+Des dizaines de milliers d'hommes convergent vers la région d'Adwa.
+
+En face…
+
+les forces italiennes avancent avec leur propre stratégie.
+
+Les deux armées vont bientôt se rencontrer.
+
+---
+
+1er mars 1896.
+
+Avant l'aube.
+
+Les forces italiennes commencent à se déplacer.
+
+Le terrain montagneux est difficile.
+
+Les unités italiennes sont dispersées.
+
+Et les Éthiopiens connaissent leur terrain.
+
+Lorsque les combats commencent…
+
+les Italiens se retrouvent progressivement encerclés et soumis à une pression massive.
+
+Les affrontements deviennent extrêmement violents.
+
+Les armes modernes créent un carnage des deux côtés.
+
+Mais l'armée éthiopienne conserve l'initiative.
+
+Les lignes italiennes commencent à céder.
+
+Puis la retraite devient générale.
+
+L'armée italienne est battue.
+
+---
+
+Mais pourquoi cette bataille est-elle devenue si célèbre ?
+
+Parce qu'elle intervient à un moment extrêmement particulier.
+
+À la fin du XIXᵉ siècle, les puissances européennes contrôlent ou cherchent à contrôler une grande partie du continent africain.
+
+Et pourtant…
+
+l'Éthiopie réussit à défendre son indépendance face à l'invasion italienne.
+
+Le Smithsonian décrit Adwa comme la bataille décisive de la première guerre italo-éthiopienne et souligne que la victoire éthiopienne empêcha l'imposition de la domination coloniale italienne.
+
+La nouvelle de la victoire dépasse rapidement les frontières de l'Éthiopie.
+
+Elle devient un symbole pour de nombreux Africains et pour les mouvements noirs de la diaspora.
+
+Une idée s'impose :
+
+une puissance européenne peut être vaincue en Afrique.
+
+---
+
+Mais l'histoire ne s'arrête pas avec la victoire.
+
+Après Adwa, l'Italie doit reconnaître l'indépendance de l'Éthiopie.
+
+Pour Menelik II, c'est une victoire diplomatique autant que militaire.
+
+Pour l'Italie, c'est un désastre.
+
+Et pour les Européens…
+
+la bataille devient un rappel brutal :
+
+la conquête de l'Afrique n'est pas nécessairement une promenade militaire.
+
+---
+
+Mais voici ce qui rend cette histoire encore plus fascinante.
+
+Adwa n'a pas simplement été gagnée avec des armes.
+
+Menelik avait préparé son pays.
+
+Il avait obtenu des armes modernes.
+
+Il avait mobilisé différentes forces régionales.
+
+Il avait utilisé le terrain.
 
 Et surtout…
 
-Samory comprend quelque chose.
+il avait compris que la division pouvait être fatale.
 
-Pour survivre dans cette époque où les puissances européennes avancent rapidement en Afrique…
-
-il ne suffit pas d'avoir des guerriers.
-
-Il faut une organisation.
-
-Il faut des armes.
-
-Il faut une stratégie.
-
-Et il faut savoir négocier.
+La victoire d'Adwa est donc aussi l'histoire d'une mobilisation politique et militaire à grande échelle.
 
 ---
 
-Pendant un temps, Samory signe même des accords avec les Français.
+Plus de quarante ans plus tard, l'Italie reviendra.
 
-Mais les relations se détériorent.
+En 1935, sous le régime de Benito Mussolini, l'Italie envahit de nouveau l'Éthiopie.
 
-À partir de 1891, la confrontation reprend fortement.
+Cette fois, la situation sera différente.
 
-Les forces françaises progressent.
+L'Éthiopie sera occupée pendant plusieurs années.
 
-Kankan tombe.
+Mais dans la mémoire collective…
 
-Puis la capitale de Samory est menacée.
+le souvenir d'Adwa restera.
 
-Mais au lieu de rester enfermé dans une position impossible à défendre…
+Parce qu'en 1896, dans les montagnes d'Éthiopie…
 
-Samory déplace son empire.
+une armée africaine avait réussi à repousser une puissance coloniale européenne.
 
-Il se replie vers l'est.
+Et cette bataille allait devenir l'un des symboles les plus importants de la résistance africaine à l'époque impériale.
 
-Il reconstruit son pouvoir.
+Adwa nous rappelle une chose essentielle :
 
-Et il recommence.
+l'histoire de l'Afrique n'est pas uniquement l'histoire de sa colonisation.
 
-Les Français le poursuivent.
+C'est aussi l'histoire des États qui ont résisté.
 
-Samory change encore de territoire.
+Des dirigeants qui ont négocié.
 
-Puis encore.
+Des armées qui ont combattu.
 
-Pendant des années, la guerre devient une immense poursuite à travers l'Afrique de l'Ouest.
+Et des peuples qui ont parfois réussi à préserver leur souveraineté.
 
-Mais il y a un autre élément important.
+Le 1er mars 1896…
 
-Samory n'affronte pas seulement les Français.
+à Adwa…
 
-Il doit également gérer des résistances internes, des rivalités régionales et des problèmes d'approvisionnement.
+l'histoire aurait pu être différente.
 
-Son empire est constamment sous pression.
+Mais elle ne l'a pas été.
 
----
-
-Puis arrive 1898.
-
-La situation devient critique.
-
-Les Français ont éliminé ou affaibli plusieurs puissances régionales qui auraient pu constituer des alliés ou des obstacles à leur progression.
-
-Samory est progressivement isolé.
-
-Son territoire se réduit.
-
-Ses forces diminuent.
-
-Il tente alors de se déplacer vers l'ouest, en direction du Liberia.
-
-Mais cette fois…
-
-la fuite ne suffira pas.
-
----
-
-29 septembre 1898.
-
-Samory et ses hommes sont installés dans la région de Guélémou, dans l'actuelle Côte d'Ivoire.
-
-Le capitaine français Henri Gouraud mène une colonne à sa recherche.
-
-Et contrairement à ce qu'on pourrait imaginer…
-
-il n'y aura pas de grande bataille finale.
-
-Les Français surprennent le camp de Samory.
-
-Le chef wassoulou est capturé.
-
-Après des années de guerre et de déplacements…
-
-l'homme qui avait construit un immense empire tombe finalement entre les mains de ses poursuivants.
-
-La capture de Samory marque la fin de l'Empire wassoulou comme grande puissance indépendante.
-
-Mais son histoire ne s'arrête pas là.
-
----
-
-Samory est déporté au Gabon.
-
-Il meurt en captivité le 2 juin 1900.
-
-Il ne reverra jamais son empire.
-
-Mais son histoire va survivre.
-
-Parce que Samory Touré n'était pas seulement un chef militaire.
-
-Il était aussi le dirigeant d'un État africain qui avait dû s'adapter à une transformation brutale du rapport de force mondial.
-
-Son histoire montre quelque chose que l'on oublie parfois lorsqu'on raconte la colonisation de l'Afrique.
-
-La conquête européenne ne s'est pas faite dans un continent sans États, sans armées ou sans stratégies.
-
-Elle s'est faite face à des royaumes, des empires, des chefs militaires et des sociétés qui ont parfois négocié…
-
-parfois résisté…
-
-et parfois combattu pendant des années.
-
-Samory Touré aura résisté jusqu'à ce que son empire soit finalement brisé.
-
-Et aujourd'hui encore, son nom reste associé à l'histoire de la résistance à l'expansion coloniale en Afrique de l'Ouest.
-
-Mais il y a une chose que l'histoire ne doit jamais nous faire oublier :
-
-avant de devenir des colonies…
-
-ces territoires avaient déjà leur propre histoire.
-
-Leurs propres dirigeants.
-
-Leurs propres guerres.
-
-Leurs propres ambitions.
-
-Et leurs propres héros.
+Et c'est précisément pour cela que cette bataille mérite encore d'être racontée aujourd'hui.
 
 ---
 
