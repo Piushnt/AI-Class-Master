@@ -1,204 +1,228 @@
-Imagine être en 1896.
+Imagine…
 
-Les grandes puissances européennes se partagent progressivement l'Afrique.
+Tu es né dans un monde où tes parents appartiennent à quelqu'un.
 
-Des territoires tombent.
+Ton travail ne t'appartient pas.
 
-Des royaumes sont conquis.
+Ton corps ne t'appartient pas.
 
-Des frontières sont redessinées.
+Ta liberté n'existe pas.
 
-Et au milieu de cette course…
+Puis un jour…
 
-une puissance européenne pense pouvoir imposer son contrôle à l'Éthiopie.
+tu te révoltes.
 
-Mais elle va faire une erreur.
+Tu prends les armes.
 
-Elle va sous-estimer son adversaire.
+Tu bats ceux qui te maintenaient en esclavage.
 
-Et le 1er mars 1896…
+Et finalement…
 
-son armée va affronter des dizaines de milliers de soldats éthiopiens à Adwa.
+tu deviens libre.
 
-Ce jour-là, l'histoire de l'Afrique va prendre une direction différente.
+Mais vingt et un ans plus tard…
 
----
+l'ancien maître revient.
 
-À cette époque, l'Italie cherche à construire son propre empire colonial.
+Pas pour reprendre officiellement le pays.
 
-Elle possède déjà des territoires dans la région de la mer Rouge et souhaite étendre son influence vers l'intérieur.
+Mais avec une facture.
 
-L'Éthiopie représente alors un objectif majeur.
-
-Mais l'Éthiopie n'est pas un territoire sans organisation politique.
-
-Elle possède un empereur :
-
-Menelik II.
-
-Et Menelik comprend parfaitement le danger qui approche.
-
-Il ne se contente pas de préparer une armée.
-
-Il cherche aussi à obtenir des armes modernes.
-
-Il achète notamment des armes et des munitions auprès de puissances européennes.
-
-Pendant ce temps, l'Italie avance.
-
-Puis les tensions deviennent une guerre ouverte.
+Cette histoire est celle d'Haïti.
 
 ---
 
-Mais il existe un problème que les Italiens vont comprendre trop tard.
+En 1791, dans la colonie française de Saint-Domingue, une immense insurrection commence.
 
-Ils ont sous-estimé la capacité de mobilisation de Menelik.
+Des personnes réduites en esclavage se soulèvent contre le système esclavagiste.
 
-L'empereur parvient à rassembler une immense force composée de soldats provenant de différentes régions de l'Éthiopie.
+Le conflit va devenir une véritable révolution.
 
-Et il n'est pas seul.
+Parmi les figures les plus célèbres apparaît Toussaint Louverture.
 
-À ses côtés se trouve notamment l'impératrice Taytu Betul, une figure politique et militaire importante dans la mobilisation éthiopienne.
+Ancien esclave devenu chef militaire et dirigeant politique, il devient progressivement l'une des figures centrales de la révolution.
 
-L'armée éthiopienne se met en mouvement.
+En 1794, la France abolit l'esclavage dans ses colonies.
 
-Des dizaines de milliers d'hommes convergent vers la région d'Adwa.
-
-En face…
-
-les forces italiennes avancent avec leur propre stratégie.
-
-Les deux armées vont bientôt se rencontrer.
+Mais l'histoire ne s'arrête pas là.
 
 ---
 
-1er mars 1896.
+En 1802, Napoléon Bonaparte envoie une importante expédition militaire à Saint-Domingue.
 
-Avant l'aube.
+Son objectif est de reprendre le contrôle de la colonie.
 
-Les forces italiennes commencent à se déplacer.
+Toussaint Louverture est capturé.
 
-Le terrain montagneux est difficile.
+Il est envoyé en France.
 
-Les unités italiennes sont dispersées.
+Il y meurt en prison en 1803.
 
-Et les Éthiopiens connaissent leur terrain.
+Mais la révolution continue.
 
-Lorsque les combats commencent…
+Et cette fois, les forces révolutionnaires sont dirigées notamment par Jean-Jacques Dessalines.
 
-les Italiens se retrouvent progressivement encerclés et soumis à une pression massive.
+Les combats sont terribles.
 
-Les affrontements deviennent extrêmement violents.
+L'armée française est frappée notamment par la fièvre jaune.
 
-Les armes modernes créent un carnage des deux côtés.
+Et finalement…
 
-Mais l'armée éthiopienne conserve l'initiative.
-
-Les lignes italiennes commencent à céder.
-
-Puis la retraite devient générale.
-
-L'armée italienne est battue.
+elle est vaincue.
 
 ---
 
-Mais pourquoi cette bataille est-elle devenue si célèbre ?
+1er janvier 1804.
 
-Parce qu'elle intervient à un moment extrêmement particulier.
+À Gonaïves, Jean-Jacques Dessalines proclame l'indépendance.
 
-À la fin du XIXᵉ siècle, les puissances européennes contrôlent ou cherchent à contrôler une grande partie du continent africain.
+Le nom du pays devient Haïti.
+
+Une ancienne colonie esclavagiste vient de devenir un État indépendant.
+
+Et cette fois, quelque chose d'extraordinaire vient de se produire.
+
+Des personnes qui avaient été réduites en esclavage viennent de créer leur propre pays.
+
+Le Smithsonian présente la révolution haïtienne comme la révolution menée par des personnes d'ascendance africaine qui aboutit à la création d'une nouvelle nation en 1804.
+
+Mais…
+
+la victoire militaire ne signifie pas que le combat est terminé.
+
+---
+
+Pendant des années, la France refuse de reconnaître pleinement l'indépendance d'Haïti.
+
+Puis arrive 1825.
+
+Des navires de guerre français apparaissent au large d'Haïti.
+
+Le roi Charles X envoie une ordonnance.
+
+La France accepte de reconnaître l'indépendance du pays…
+
+à condition qu'Haïti verse 150 millions de francs pour indemniser les anciens colons français.
+
+Le texte officiel parle explicitement de dédommager les anciens colons.
+
+Et derrière cette décision se trouve une réalité vertigineuse :
+
+Haïti doit payer pour les propriétés perdues pendant la révolution.
+
+Parmi ces « propriétés » se trouvent des terres…
+
+mais aussi des personnes qui avaient été réduites en esclavage.
+
+La Bibliothèque nationale de France et des institutions françaises consacrées à l'histoire de l'esclavage documentent cette indemnité de 150 millions de francs et le contexte dans lequel elle fut imposée.
+
+---
+
+Mais Haïti n'a pas les moyens de payer.
+
+Alors le pays emprunte.
+
+Et c'est là que commence ce que les historiens et économistes appellent aujourd'hui la « double dette ».
+
+Haïti emprunte auprès de banques françaises pour payer l'indemnité exigée par la France.
+
+Une partie du prêt est immédiatement absorbée par les commissions bancaires.
+
+Autrement dit…
+
+le jeune État indépendant doit s'endetter pour payer la puissance qui vient de reconnaître son indépendance.
+
+Les données historiques compilées par le New York Times indiquent que l'indemnité initiale était de 150 millions de francs et que le système de dette associé a pesé sur les finances haïtiennes pendant des décennies.
+
+---
+
+Et maintenant…
+
+imagine la scène.
+
+Un peuple vient de gagner une guerre pour sa liberté.
+
+Il a perdu des milliers de personnes.
+
+Il a détruit l'ordre colonial.
+
+Il a créé son propre État.
 
 Et pourtant…
 
-l'Éthiopie réussit à défendre son indépendance face à l'invasion italienne.
+il commence son histoire indépendante avec une dette gigantesque.
 
-Le Smithsonian décrit Adwa comme la bataille décisive de la première guerre italo-éthiopienne et souligne que la victoire éthiopienne empêcha l'imposition de la domination coloniale italienne.
+Pendant des générations, l'argent quitte le pays.
 
-La nouvelle de la victoire dépasse rapidement les frontières de l'Éthiopie.
+Les remboursements se poursuivent.
 
-Elle devient un symbole pour de nombreux Africains et pour les mouvements noirs de la diaspora.
+Les intérêts s'accumulent.
 
-Une idée s'impose :
+La dette liée à l'indemnité et aux emprunts nécessaires à son paiement devient un poids durable.
 
-une puissance européenne peut être vaincue en Afrique.
-
----
-
-Mais l'histoire ne s'arrête pas avec la victoire.
-
-Après Adwa, l'Italie doit reconnaître l'indépendance de l'Éthiopie.
-
-Pour Menelik II, c'est une victoire diplomatique autant que militaire.
-
-Pour l'Italie, c'est un désastre.
-
-Et pour les Européens…
-
-la bataille devient un rappel brutal :
-
-la conquête de l'Afrique n'est pas nécessairement une promenade militaire.
+Le Mémorial de l'abolition de l'esclavage de Nantes indique que l'indemnité, réduite ensuite à 90 millions de francs, fut remboursée en 1888, tandis que les intérêts liés aux emprunts ont continué à peser jusqu'au XXᵉ siècle.
 
 ---
 
-Mais voici ce qui rend cette histoire encore plus fascinante.
+Mais attention.
 
-Adwa n'a pas simplement été gagnée avec des armes.
+Cette histoire ne signifie pas que tous les problèmes économiques ultérieurs d'Haïti peuvent être expliqués uniquement par cette dette.
 
-Menelik avait préparé son pays.
+L'histoire est beaucoup plus complexe.
 
-Il avait obtenu des armes modernes.
+Il y aura ensuite des crises politiques internes, des interventions étrangères, des problèmes économiques et d'autres facteurs.
 
-Il avait mobilisé différentes forces régionales.
-
-Il avait utilisé le terrain.
+Mais cette dette constitue un épisode majeur de l'histoire économique et politique du jeune État.
 
 Et surtout…
 
-il avait compris que la division pouvait être fatale.
+elle pose une question difficile.
 
-La victoire d'Adwa est donc aussi l'histoire d'une mobilisation politique et militaire à grande échelle.
+Combien coûte réellement une indépendance ?
 
 ---
 
-Plus de quarante ans plus tard, l'Italie reviendra.
+Parce qu'Haïti avait obtenu quelque chose que très peu de peuples avaient réussi à obtenir à cette époque.
 
-En 1935, sous le régime de Benito Mussolini, l'Italie envahit de nouveau l'Éthiopie.
+Des personnes autrefois réduites en esclavage avaient renversé l'ordre colonial et créé un État indépendant.
 
-Cette fois, la situation sera différente.
+La révolution haïtienne a également eu des répercussions bien au-delà de l'île : elle a influencé les débats sur l'esclavage et les mouvements de libération dans les Amériques. Le Smithsonian souligne notamment son influence sur les Afro-Américains et sur d'autres mouvements révolutionnaires.
 
-L'Éthiopie sera occupée pendant plusieurs années.
+Mais son histoire a longtemps été racontée principalement comme une histoire de pauvreté et d'instabilité.
 
-Mais dans la mémoire collective…
+Alors qu'avant tout cela…
 
-le souvenir d'Adwa restera.
+il y avait une révolution.
 
-Parce qu'en 1896, dans les montagnes d'Éthiopie…
+Une révolution menée par des hommes et des femmes qui avaient décidé que leur liberté ne serait pas négociable.
 
-une armée africaine avait réussi à repousser une puissance coloniale européenne.
+---
 
-Et cette bataille allait devenir l'un des symboles les plus importants de la résistance africaine à l'époque impériale.
+Et peut-être que la partie la plus frappante de cette histoire n'est pas que des esclaves se soient révoltés.
 
-Adwa nous rappelle une chose essentielle :
+C'est qu'ils aient réussi.
 
-l'histoire de l'Afrique n'est pas uniquement l'histoire de sa colonisation.
+Ils ont affronté une grande puissance européenne.
 
-C'est aussi l'histoire des États qui ont résisté.
+Ils ont survécu à la guerre.
 
-Des dirigeants qui ont négocié.
+Ils ont proclamé leur indépendance.
 
-Des armées qui ont combattu.
+Et ils ont créé un pays.
 
-Et des peuples qui ont parfois réussi à préserver leur souveraineté.
+Haïti n'est donc pas seulement l'histoire d'un pays pauvre.
 
-Le 1er mars 1896…
+C'est aussi l'histoire d'un peuple qui a remporté une révolution extraordinaire…
 
-à Adwa…
+puis a dû en payer le prix pendant des générations.
 
-l'histoire aurait pu être différente.
+Et aujourd'hui encore, cette histoire continue de provoquer des débats sur la justice, la mémoire et les conséquences économiques de l'esclavage et du colonialisme.
 
-Mais elle ne l'a pas été.
+Parce qu'il existe des victoires militaires…
 
-Et c'est précisément pour cela que cette bataille mérite encore d'être racontée aujourd'hui.
+et il existe des victoires dont les conséquences continuent de résonner deux siècles plus tard.
+
+Haïti fait partie de celles-là.
 
 ---
 
@@ -206,6 +230,6 @@ Si cette histoire vous a intéressé, abonnez-vous à AfroLegend10.
 
 Et si vous pensez que ces histoires méritent d'être connues, partagez cette vidéo autour de vous pour soutenir la chaîne.
 
-Parce que l'histoire de l'Afrique ne mérite pas d'être oubliée.
+Parce que l'histoire de l'Afrique et de sa diaspora ne mérite pas d'être oubliée.
 
 À la prochaine histoire.
