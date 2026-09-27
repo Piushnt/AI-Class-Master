@@ -1,361 +1,201 @@
-Le 17 novembre 1892…
+STYLE VISUEL ET NARRATIF — AFROLEGEND10
 
-une armée étrangère entre dans Abomey.
+Crée une vidéo documentaire historique verticale au format 9:16, destinée à TikTok et à la chaîne AfroLegend10.
 
-Devant elle se trouve une ville qui, pendant des générations, a été le cœur d'un royaume puissant.
+Le sujet porte sur une histoire africaine réelle, notamment l'histoire du Dahomey, du royaume d'Abomey, de ses rois, de Béhanzin, des Agojie ou d'autres figures historiques africaines.
 
-Mais ce jour-là…
+1. DURÉE OBLIGATOIRE
 
-le roi n'est plus là.
+La vidéo complète doit avoir une durée minimum de 2 minutes et maximum de 5 minutes.
 
-Il a disparu.
+Respecte impérativement cette contrainte : ne produis pas une vidéo trop courte et ne dépasse pas 5 minutes.
 
-Il refuse de se rendre.
+La narration doit être suffisamment développée pour raconter une histoire complète, avec :
 
-Et quelque part dans le pays…
+- Une accroche forte dès les premières secondes.
+- Un contexte historique clair.
+- Une progression dramatique.
+- Des moments de tension ou de révélation.
+- Une conclusion mémorable.
+- Un appel à l'abonnement pour découvrir la suite.
 
-un homme traqué par une armée entière prépare encore sa résistance.
+2. IDENTITÉ VISUELLE
 
-Son nom est Béhanzin.
+Adopte un style de documentaire historique haut de gamme, cinématographique, sérieux, immersif et réaliste.
 
-Et voici comment le dernier grand roi indépendant du Dahomey a affronté la puissance coloniale française.
+L'objectif est de donner l'impression de regarder un extrait d'un grand documentaire historique, et non une vidéo générée automatiquement par une intelligence artificielle.
 
----
+Utilise :
 
-Pour comprendre Béhanzin…
+- Des reconstitutions historiques réalistes.
+- Des palais, villes, villages et paysages africains fidèles à l'époque.
+- Des personnages africains représentés avec des vêtements, coiffures, accessoires et armes historiquement cohérents.
+- Des cartes anciennes animées.
+- Des documents historiques, gravures, photographies d'archives et objets patrimoniaux lorsque cela est pertinent.
+- Des mouvements de caméra lents et cinématographiques.
+- Des zooms subtils sur les visages, les cartes et les documents.
+- Des effets de profondeur et de parallaxe sur les images fixes.
+- Des transitions sobres et professionnelles.
 
-il faut d'abord comprendre ce qu'était le Dahomey.
+Ne donne pas aux personnages historiques une apparence fantaisiste, caricaturale ou anachronique. Évite les costumes génériques et les décors africains mélangés à des éléments provenant d'autres périodes.
 
-Bien avant que le territoire ne devienne la colonie française du Dahomey…
+3. PALETTE ET ATMOSPHÈRE
 
-il existait ici un royaume organisé, avec une administration, une armée, une cour royale et une capitale :
+Utilise une palette visuelle dominée par :
 
-Abomey.
+- Noir profond.
+- Gris charbon.
+- Beige ancien.
+- Terre cuite.
+- Brun vieilli.
+- Or discret.
+- Rouge sombre pour les moments de conflit ou de danger.
 
-Pendant des générations, les rois se succèdent.
+L'atmosphère doit évoluer selon l'histoire :
 
-Ghézo.
+- Grandeur et puissance pour présenter le royaume.
+- Tension et inquiétude lorsque la menace apparaît.
+- Intensité et mouvement pendant les conflits.
+- Silence, solitude et émotion lors de la chute, de la défaite ou de l'exil.
 
-Glélé.
+L'esthétique doit rester élégante, historique et crédible. Évite les couleurs excessivement vives, les effets de jeu vidéo, les transitions flashy, les effets glitch et les animations TikTok sans rapport avec le sujet.
 
-Puis Béhanzin.
+4. NARRATION VISUELLE ET RYTHME
 
-Les palais royaux se développent au cœur d'Abomey.
+Chaque image doit accompagner précisément ce que raconte la voix off.
 
-Aujourd'hui encore, leurs vestiges témoignent de cette organisation politique.
+Ne montre pas des images aléatoires simplement parce qu'elles correspondent vaguement à l'Afrique.
 
-L'UNESCO considère les palais royaux d'Abomey comme un témoignage exceptionnel du royaume du Dahomey et de son pouvoir organisé.
+Fais évoluer les images avec la narration :
 
-Mais à la fin du XIXᵉ siècle…
+- Montrer les palais et les symboles de pouvoir lorsque le royaume est présenté.
+- Montrer les cartes lorsque les territoires, les déplacements ou les frontières sont évoqués.
+- Montrer les soldats, les armes et les préparatifs lorsque la guerre est annoncée.
+- Montrer les visages, les familles et les lieux abandonnés pendant les passages humains et émotionnels.
+- Utiliser un écran sombre ou presque noir avant une révélation importante.
+- Laisser de courtes pauses visuelles après les phrases les plus poignantes.
 
-le monde autour du Dahomey est en train de changer.
+Le montage doit maintenir la curiosité sans être précipité. Les scènes doivent changer suffisamment souvent pour maintenir l'attention sur un écran mobile, tout en conservant une continuité visuelle.
 
----
+5. TEXTE À L'ÉCRAN
 
-Les Européens avancent partout en Afrique.
+Ajoute des textes courts, lisibles et élégants.
 
-Et sur la côte…
+Utilise une typographie historique premium pour les titres et une typographie moderne et très lisible pour les informations secondaires.
 
-les Français renforcent progressivement leur présence.
+Les textes doivent être :
 
-Cotonou devient un point stratégique.
+- Courts.
+- Correctement orthographiés.
+- Faciles à lire sur un téléphone.
+- Placés dans une zone qui ne sera pas masquée par les éléments de l'interface TikTok.
+- Synchronisés avec les moments importants de la narration.
 
-Porto-Novo se rapproche également de la France.
+Exemples de textes à l'écran :
 
-Les traités se multiplient.
+« ABOMEY — 1892 »
 
-Mais derrière les signatures…
+« LE ROYAUME EST MENACÉ »
 
-une question devient de plus en plus importante :
+« LE ROI REFUSE DE SE RENDRE »
 
-qui contrôle réellement le territoire ?
+« LA CHUTE D'UNE CAPITALE »
 
-Pour les Français, l'influence doit s'étendre.
+Ne surcharge pas l'écran de longs paragraphes.
 
-Pour le Dahomey, la souveraineté du royaume doit être préservée.
+6. STRUCTURE EN 4 VIDÉOS COURTES
 
-La tension devient inévitable.
+Après avoir construit la narration complète, organise l'histoire en 4 parties distinctes, conçues pour être publiées séparément sur TikTok.
 
----
+Les quatre parties doivent former une seule histoire continue.
 
-En 1889, le roi Glélé meurt.
+Chaque partie doit être compréhensible seule, mais doit également donner envie de regarder la suivante.
 
-Son fils monte sur le trône.
+PARTIE 1 — LA GRANDEUR ET L'ACCROCHE
 
-Il s'appelle Kondo.
+Présente le personnage, le royaume ou l'événement historique.
 
-Mais en devenant roi…
+Commence par une phrase extrêmement captivante qui crée une question dans l'esprit du spectateur.
 
-il prend un autre nom.
+Présente la grandeur du royaume, le contexte historique et la situation initiale.
 
-Béhanzin.
+Termine sur une révélation, une menace ou une question qui donne envie de regarder la partie 2.
 
-Il n'est pas disposé à abandonner facilement les droits du royaume.
+À la fin, affiche et prononce un appel à l'action naturel :
 
-Les négociations avec les représentants français deviennent de plus en plus tendues.
+« Si vous voulez connaître la suite de cette histoire, abonnez-vous à AfroLegend10 et rendez-vous dans la partie 2. »
 
-Puis les armes parlent.
+PARTIE 2 — LA MENACE ET LA MONTÉE DE LA TENSION
 
----
+Poursuis directement l'histoire sans répéter inutilement toute la partie précédente.
 
-En 1890…
+Présente les tensions politiques, les négociations, les rivalités ou la menace extérieure.
 
-la première guerre éclate.
+Augmente progressivement la tension narrative.
 
-Les forces françaises affrontent celles du Dahomey.
+Utilise des cartes, des scènes de préparation, des mouvements de troupes et des gros plans émotionnels.
 
-Les troupes dahoméennes combattent.
+Termine sur un événement important : une déclaration de guerre, une trahison, une attaque ou une décision irréversible.
 
-Parmi elles se trouvent les célèbres Agojie, ces femmes soldats que les Européens appelleront plus tard les « Amazones du Dahomey ».
+Termine par :
 
-La guerre se termine par un compromis.
+« La suite de cette histoire arrive dans la partie 3. Abonnez-vous à AfroLegend10 pour ne pas la manquer, et partagez cette vidéo si cette histoire vous intéresse. »
 
-Mais ce n'est qu'une pause.
+PARTIE 3 — LE CONFLIT ET LE MOMENT DÉCISIF
 
-Pas la fin.
+Présente les événements les plus intenses de l'histoire.
 
-Parce que chacun sait que le conflit n'est pas réellement réglé.
+Montre les conséquences humaines et politiques du conflit avec sérieux, sans glorifier inutilement la violence et sans ajouter de scènes graphiques.
 
----
+Utilise un rythme plus intense, des sons de tension, des cartes animées et des transitions cinématographiques.
 
-Puis arrive 1892.
+Construis progressivement le moment décisif.
 
-Cette fois…
+Ne révèle pas trop tôt la conclusion si cela nuit au suspense.
 
-la France ne vient plus simplement défendre ses comptoirs.
+Termine sur un tournant majeur ou une révélation qui prépare la dernière partie.
 
-Elle veut entrer au cœur du royaume.
+Ajoute :
 
-Une expédition est organisée sous le commandement du colonel Alfred Dodds.
+« Si vous voulez découvrir comment cette histoire se termine, abonnez-vous à AfroLegend10 et regardez la partie 4. »
 
-Les forces françaises avancent depuis la côte.
+PARTIE 4 — LA CHUTE, L'HÉRITAGE ET LA CONCLUSION
 
-Et Béhanzin prépare son armée.
+Raconte la conclusion de l'histoire.
 
-Il sait que l'adversaire possède une puissance de feu considérable.
+Présente les conséquences pour le personnage, le royaume, les familles et la société.
 
-Alors il modernise lui aussi son armement.
+Montre ce qui subsiste dans la mémoire collective : palais, monuments, traditions, archives, descendants ou héritage historique, lorsque ces éléments sont documentés.
 
-Des fusils modernes sont achetés.
+Termine par une réflexion forte et universelle, sans inventer de citation attribuée à un personnage historique.
 
-Des canons.
+La conclusion doit être émotionnelle, mémorable et digne d'un documentaire.
 
-Des munitions.
+Termine avec ce message :
 
-Le royaume se prépare à la guerre.
+« Si cette histoire vous a touché, abonnez-vous à AfroLegend10. Si vous pensez que ces histoires méritent d'être connues, partagez cette vidéo pour soutenir la chaîne. Et si vous voulez découvrir d'autres histoires africaines, restez avec nous. À la prochaine histoire. »
 
-Une étude historique de l'UNESCO rapporte notamment que le Dahomey avait acheté entre 1891 et 1892 d'importantes quantités de fusils à tir rapide, de canons, de mitrailleuses et de munitions.
+7. CONTINUITÉ ENTRE LES PARTIES
 
-Mais le problème n'est plus seulement de gagner une bataille.
+Les quatre vidéos doivent avoir :
 
-Il faut empêcher toute une armée de parvenir jusqu'à Abomey.
+- Le même style visuel.
+- Les mêmes personnages et des apparences cohérentes.
+- Une palette de couleurs identique.
+- Une musique et une ambiance sonore cohérentes.
+- Des titres de parties clairement visibles.
+- Une progression chronologique logique.
 
----
+À la fin de chaque partie, ajoute un court écran de transition indiquant :
 
-Les combats deviennent de plus en plus violents.
+« À SUIVRE — PARTIE 2 »
 
-Les forces françaises avancent.
+« À SUIVRE — PARTIE 3 »
 
-Les soldats dahoméens résistent.
+ou
 
-Les Agojie combattent elles aussi.
+« DERNIÈRE PARTIE »
 
-Mais l'écart technologique et militaire devient difficile à surmonter.
+selon le cas.
 
-Puis vient le moment que Béhanzin redoutait.
-
-Abomey est menacée.
-
----
-
-17 novembre 1892.
-
-Les troupes françaises entrent dans la capitale.
-
-Mais elles ne trouvent pas le roi.
-
-Béhanzin a quitté Abomey.
-
-Il n'a pas accepté de se laisser capturer.
-
-Les Français occupent la capitale.
-
-Ils prennent possession de symboles et d'objets royaux.
-
-Mais leur principal objectif leur échappe encore.
-
-Béhanzin.
-
-Le Service historique de la Défense confirme que les troupes françaises entrent dans Abomey le 17 novembre 1892, tandis que Béhanzin avait abandonné la capitale et n'avait pas été capturé.
-
----
-
-Et c'est là que commence une autre histoire.
-
-Pendant des mois…
-
-Béhanzin est traqué.
-
-Il se déplace.
-
-Il négocie.
-
-Il cherche des moyens de continuer la résistance.
-
-Mais son royaume est maintenant profondément affaibli.
-
-Ses adversaires disposent de moyens militaires supérieurs.
-
-Ses forces diminuent.
-
-Et la diplomatie française contribue à l'isoler.
-
-Petit à petit…
-
-le cercle se referme.
-
----
-
-Puis arrive 1894.
-
-Béhanzin comprend que la situation devient presque impossible.
-
-Il finit par se rendre.
-
-Mais même dans la défaite…
-
-il veut conserver quelque chose :
-
-sa dignité.
-
-Il est déchu.
-
-Puis envoyé en exil.
-
-D'abord en Martinique.
-
-Plus tard, il est transféré en Algérie française.
-
-Il ne reverra jamais son royaume.
-
-Il mourra à Alger en 1906.
-
----
-
-Mais regarde maintenant la dernière image.
-
-Un roi qui avait grandi dans les palais d'Abomey…
-
-qui avait hérité d'un royaume construit par plusieurs générations…
-
-qui avait commandé des armées…
-
-qui avait affronté une puissance européenne…
-
-se retrouve finalement loin de chez lui.
-
-En exil.
-
-Et derrière lui…
-
-son royaume est désormais sous domination française.
-
-C'est ça, la partie de l'histoire que les cartes ne montrent jamais.
-
-Quand un empire tombe…
-
-ce ne sont pas seulement des frontières qui changent.
-
-Ce sont des familles qui sont séparées.
-
-Des palais qui changent de fonction.
-
-Des langues et des institutions qui sont bouleversées.
-
-Et surtout…
-
-des hommes qui meurent loin de la terre qu'ils considéraient comme leur maison.
-
----
-
-Mais Béhanzin n'est pas toute l'histoire.
-
-Avant lui, il y avait Ghézo.
-
-Avant Ghézo, d'autres rois.
-
-Après lui, d'autres dirigeants.
-
-Et derrière tous ces noms…
-
-il y avait des générations de Dahoméens.
-
-Le Dahomey n'est donc pas né avec Béhanzin.
-
-Et il ne disparaît pas simplement parce qu'un roi est vaincu.
-
-Son histoire continue.
-
-Ses palais sont toujours là.
-
-Ses symboles sont toujours là.
-
-Ses descendants sont toujours là.
-
-Et dans la mémoire béninoise…
-
-le nom de Béhanzin continue de résonner.
-
-Parce qu'il représente une époque où le royaume d'Abomey était encore maître de son destin.
-
----
-
-Mais il faut aussi raconter cette histoire sans transformer le passé en conte parfait.
-
-Le Dahomey était une puissance régionale complexe.
-
-Il pratiquait la guerre, participait à la traite atlantique et employait des formes de violence et de servitude que les historiens documentent.
-
-Il y avait donc aussi des victimes du système dahoméen.
-
-Comprendre notre histoire ne signifie pas idéaliser tout ce qu'ont fait nos anciens dirigeants.
-
-Cela signifie être capable de regarder leur époque entière…
-
-avec ses grandeurs,
-
-ses contradictions,
-
-ses violences,
-
-et ses résistances.
-
-Et c'est justement ce qui rend cette histoire fascinante.
-
----
-
-Parce qu'avant d'être une colonie française…
-
-le territoire de l'actuel Bénin avait déjà ses propres royaumes, ses propres dirigeants, ses propres guerres et ses propres histoires.
-
-Et parmi ces histoires…
-
-il y a celle d'un roi qui, lorsqu'une puissance étrangère est venue réclamer davantage de contrôle sur son royaume…
-
-a choisi de résister.
-
-Son nom était Béhanzin.
-
-Et son histoire…
-
-est encore inscrite dans les murs d'Abomey.
-
----
-
-Si cette histoire vous a intéressé, abonnez-vous à AfroLegend10.
-
-Et si vous pensez que ces histoires méritent d'être connues, partagez cette vidéo autour de vous pour soutenir la chaîne.
-
-Parce que notre histoire ne mérite pas d'être oubliée.
-
-À la prochaine histoire.
+Ne donne pas l'impression que les vidéos ont été produites s
